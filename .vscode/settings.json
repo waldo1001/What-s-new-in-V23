@@ -1,0 +1,13 @@
+{
+    "al.compilationOptions": {
+        // "outFolder": "c:/Temp/"
+    },
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "al.inlayhints.functionReturnTypes.enabled": true,
+    "al.inlayhints.parameterNames.enabled": true,
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        // "${AppSourceCop}"
+    ],
+    "CRS.OnSaveAlFileAction": "DoNothing"
+}
